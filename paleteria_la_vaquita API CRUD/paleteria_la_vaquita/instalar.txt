@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+
+Instalar: pip install -r requirements.txt
+
+Corre el servidor: uvicorn main:app --reload
